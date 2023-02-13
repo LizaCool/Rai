@@ -1,0 +1,10 @@
+body {
+    background-image: url(https://i.gifer.com/Ag1.gif);
+    animation: moving-background 20s linear infinite;
+    background-size: cover;
+}
+
+h1 {
+    color:aliceblue;
+}
+
